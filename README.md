@@ -9,7 +9,7 @@ How to use??
 2. Unzip it and import as maven project in your IDE
 3. Make sure that all the dependencies are downloaded and the project is not showing any errors
 4. Navigate to src\test\java\testRunners\QAtestRunner.java and run it as JUnit Test
-5. Wait util the execution gets completed
+5. Wait until the execution gets completed
 6. Test Report will be avaiable in \target\cucumber-reports.html
 7. Online report will also be available in the url present in the console after execution
 
