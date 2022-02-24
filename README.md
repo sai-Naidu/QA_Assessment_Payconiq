@@ -5,7 +5,7 @@
 3. Framework : Cucumber
 
 How to use??
-1. Download WorkMotionQA.zip file
+1. Download com.payconiq.zip file
 2. Unzip it and import as maven project in your IDE
 3. Make sure that all the dependencies are downloaded and the project is not showing any errors
 4. Navigate to src\test\java\testRunners\QAtestRunner.java and run it as JUnit Test
