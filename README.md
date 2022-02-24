@@ -2,7 +2,7 @@
 
 1. Programming language : Java
 2. Tools : Rest Assured
-3. Framework : Cucumber
+3. Framework : BDD with Cucumber
 
 How to use??
 1. Download com.payconiq.zip file
@@ -14,4 +14,4 @@ How to use??
 7. Online report will also be available in the url present in the console after execution
 
 
-A sample report "cucumber-reports.html" is also attched for your reference
+A sample report with is avaiable in \target\cucumber-reports.html. You can view it before the execution as it will be overridden
