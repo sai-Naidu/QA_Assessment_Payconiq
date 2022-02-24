@@ -14,4 +14,4 @@ How to use??
 7. Online report will also be available in the url present in the console after execution
 
 
-A sample report with a screenshot is avaiable in \target\cucumber-reports.html. You can view it before the execution as it will be overridden.
+A sample report "cucumber-reports.html" is also attched for your reference
